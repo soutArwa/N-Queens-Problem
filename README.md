@@ -4,5 +4,6 @@ A classic artificial intelligence and constraint satisfaction problem.
 Team Name: 
 Sara Alsadoon
 Nahed Almutairi
-bsma aljumah
+bsma Aljumah
 Layan Alqabbani
+Arwa Bilobeid
